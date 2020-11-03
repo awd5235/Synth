@@ -10,10 +10,11 @@
  -------------------Routine Maintenance----------------
  1. Make changes to source
  2. In terminal navigate to source file enclosing folder (Don't enter .git)
- 3. "git add <changed file>" in this case main.cpp or simply "git add ." to add all
- 4. Optional: "git diff" to see changes added
- 5. git commit -m "Message detailing changes made"
- 6. "git push origin master" changes will now be pushed to github
+ 3. Optional: "git status"
+ 4. "git add <changed file>" in this case main.cpp or simply "git add ." to add all
+ 5. Optional: "git diff" to see changes added
+ 6. git commit -m "Message detailing changes made"
+ 7. "git push origin master" changes will now be pushed to github
 */
 
 
